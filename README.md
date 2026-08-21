@@ -40,11 +40,11 @@ Aplicación con autenticación, almacenamiento, importación de datos, progreso 
 
 Producto con automatizaciones, integraciones de IA, documentación de producto, accesibilidad, casos de demostración y pruebas.
 
-### [Sistema Zenit](https://github.com/juanxaviercasa/zenit-plataforma-educativa)
+### [Zenit — Plataforma Educativa](https://github.com/juanxaviercasa/zenit-plataforma-educativa)
 
 Plataforma educativa con Next.js, MDX, contenido interactivo, expresiones matemáticas y materiales orientados al aprendizaje.
 
-### [Apps Pymes](https://github.com/juanxaviercasa/nube-para-pymes)
+### [NubeParaPymes — Herramientas para pequeñas empresas](https://github.com/juanxaviercasa/nube-para-pymes)
 
 Colección de herramientas web para problemas comerciales y operativos de pequeñas empresas.
 
@@ -73,7 +73,7 @@ Creo en el aprendizaje continuo, la disciplina y la construcción intencional. M
 | NubeParaPymes | [nubeparapymes.online](https://nubeparapymes.online) |
 | Mundos Simulados | [mundossimulados.online](https://mundossimulados.online) |
 | TikTok | [@academiazenit](https://www.tiktok.com/@academiazenit) |
-| CV y contacto | [añadir enlace definitivo] |
+| Portafolio y CV | [xavier-cabello-portfolio](https://github.com/juanxaviercasa/xavier-cabello-portfolio) |
 
 ## Contacto
 
