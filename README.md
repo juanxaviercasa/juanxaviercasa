@@ -155,8 +155,11 @@ Infraestructura base, scaffolding y herramientas de diagnóstico para acelerar e
 ## 📈 Métrica y Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanxaviercasa&show_icons=true&theme=radical&hide_border=true&bg_color=140f2d&title_color=f39c12&icon_color=e74c3c&text_color=ffffff" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanxaviercasa&layout=compact&theme=radical&hide_border=true&bg_color=140f2d&title_color=f39c12&text_color=ffffff" alt="Lenguajes más usados" height="165"/>
+  <img src="assets/github-stats.svg" alt="Estadísticas de GitHub" height="175"/>
+  <img src="assets/top-langs.svg" alt="Lenguajes más usados" height="175"/>
+</p>
+<p align="center">
+  <img src="assets/github-streak.svg" alt="Racha y Contribuciones en GitHub" height="175"/>
 </p>
 
 ---
