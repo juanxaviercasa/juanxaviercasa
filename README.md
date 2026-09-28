@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://juan.cabellosalirrosas.com/"><img src="https://img.shields.io/badge/🌐_Portafolio_Principal-juan.cabellosalirrosas.com-7928CA?style=for-the-badge" alt="Portafolio"></a>
+  <a href="https://xavier.cabellosalirrosas.com/"><img src="https://img.shields.io/badge/🌐_Portafolio_Principal-xavier.cabellosalirrosas.com-7928CA?style=for-the-badge" alt="Portafolio"></a>
+  <a href="mailto:xavier@cabellosalirrosas.com"><img src="https://img.shields.io/badge/Email-xavier@cabellosalirrosas.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/xaviercabello/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.tiktok.com/@academiazenit"><img src="https://img.shields.io/badge/TikTok-@academiazenit-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.tiktok.com/@sistemazenit"><img src="https://img.shields.io/badge/TikTok-@sistemazenit-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
   <a href="https://nubeparapymes.online"><img src="https://img.shields.io/badge/NubeParaPymes-En_Vivo-FF5722?style=for-the-badge" alt="NubeParaPymes"></a>
 </p>
 
@@ -44,7 +45,7 @@ Proyectos desplegados con tráfico real y arquitecturas accesibles desde el nave
 
 | Plataforma / Producto | Enfoque & Arquitectura | Demo en Vivo | Repositorio |
 | :--- | :--- | :---: | :---: |
-| **Portafolio Interactivo** | Portafolio de nueva generación Two-Speed UX: WebGL, Three.js, Data-Driven en Next.js. | [🔗 juan.cabellosalirrosas.com](https://juan.cabellosalirrosas.com/) | [Ver Código](https://github.com/juanxaviercasa/portafolio_juancabello) |
+| **Portafolio Principal** | Portafolio de nueva generación Two-Speed UX: WebGL, Three.js, Data-Driven en Next.js. | [🔗 xavier.cabellosalirrosas.com](https://xavier.cabellosalirrosas.com/) | [Ver Código](https://github.com/juanxaviercasa/portafolio_juancabello) |
 | **NubeParaPymes** | Portal de software, guías y suite de utilidades web en el navegador para gestión de pequeñas empresas. | [🔗 nubeparapymes.online](https://nubeparapymes.online/) | [Ver Código](https://github.com/juanxaviercasa/nube-para-pymes) |
 | **Mundos Simulados** | Laboratorio de computación visual, simulación de sistemas dinámicos y física computacional. | [🔗 mundossimulados.online](https://mundossimulados.online/) | [Ver Código](https://github.com/juanxaviercasa/mundos-simulados) |
 | **Caja Fuerte Zero-Knowledge** | Bóveda de credenciales y comando IA en el cliente con criptografía AES-GCM de 256 bits + PBKDF2. | [🔗 cajapifuerte.vercel.app](https://cajapifuerte.vercel.app/) | [Ver Código](https://github.com/juanxaviercasa/caja-fuerte) |
@@ -175,10 +176,11 @@ Infraestructura base, scaffolding y herramientas de diagnóstico para acelerar e
 
 Estoy disponible para roles de **Ingeniería Full-Stack**, **Liderazgo Técnico EdTech**, **Consultoría de Software / IA para Pymes** y **Proyectos de Alta Complejidad Visual y Algorítmica**.
 
-* 🌐 **Sitio Web & Portafolio:** [juan.cabellosalirrosas.com](https://juan.cabellosalirrosas.com/)
+* 🌐 **Sitio Web Principal & Portafolio:** [xavier.cabellosalirrosas.com](https://xavier.cabellosalirrosas.com/)
+* ✉️ **Email Profesional:** [xavier@cabellosalirrosas.com](mailto:xavier@cabellosalirrosas.com)
 * 💼 **LinkedIn:** [/in/xaviercabello](https://www.linkedin.com/in/xaviercabello/)
 * 💻 **GitHub:** [@juanxaviercasa](https://github.com/juanxaviercasa)
-* 📱 **TikTok Formativo:** [@academiazenit](https://www.tiktok.com/@academiazenit)
+* 📱 **TikTok Formativo:** [@sistemazenit](https://www.tiktok.com/@sistemazenit)
 * 🏪 **Ecosistema Pyme:** [nubeparapymes.online](https://nubeparapymes.online/)
 * 🔬 **Simulaciones:** [mundossimulados.online](https://mundossimulados.online/)
 
