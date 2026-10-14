@@ -162,11 +162,8 @@ Infraestructura base, scaffolding y herramientas de diagnóstico para acelerar e
 ## 📈 Métrica y Actividad
 
 <p align="center">
-  <img src="assets/github-stats.svg" alt="Estadísticas de GitHub" height="175"/>
-  <img src="assets/top-langs.svg" alt="Lenguajes más usados" height="175"/>
-</p>
-<p align="center">
-  <img src="assets/github-streak.svg" alt="Racha y Contribuciones en GitHub" height="175"/>
+  <img src="assets/github-stats.svg" alt="Estadísticas de GitHub" height="180"/>
+  <img src="assets/github-streak.svg" alt="Racha y Contribuciones en GitHub" height="180"/>
 </p>
 
 ---

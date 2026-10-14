@@ -19,11 +19,10 @@ jobs:
         run: |
           mkdir -p assets
           curl -sSL "https://github-readme-stats-fast.vercel.app/api?username=juanxaviercasa&show_icons=true&theme=radical&hide_border=true&bg_color=140f2d&title_color=f39c12&icon_color=e74c3c&text_color=ffffff" -o "assets/github-stats.svg.tmp"
-          curl -sSL "https://github-readme-stats-fast.vercel.app/api/top-langs?username=juanxaviercasa&layout=compact&theme=radical&hide_border=true&bg_color=140f2d&title_color=f39c12&text_color=ffffff" -o "assets/top-langs.svg.tmp"
           curl -sSL "https://streak-stats.demolab.com/?user=juanxaviercasa&theme=radical&hide_border=true&background=140f2d&ring=f39c12&fire=e74c3c&currStreakLabel=f39c12" -o "assets/github-streak.svg.tmp"
           
           # Only replace existing SVGs if downloaded file is a valid SVG
-          for file in github-stats top-langs github-streak; do
+          for file in github-stats github-streak; do
             if [ -f "assets/${file}.svg.tmp" ] && grep -q "<svg" "assets/${file}.svg.tmp"; then
               mv "assets/${file}.svg.tmp" "assets/${file}.svg"
             else
