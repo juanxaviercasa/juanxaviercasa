@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#-demos-en-vivo-y-plataformas-activas"><b>Demos en Vivo</b></a> •
-  <a href="#-pilares-estratégicos--ecosistema-de-proyectos"><b>Ecosistema de Proyectos (40+)</b></a> •
+  <a href="#-pilares-estratégicos--ecosistema-de-proyectos"><b>Ecosistema de Proyectos (45+)</b></a> •
   <a href="#-stack-tecnológico"><b>Stack Tecnológico</b></a> •
   <a href="#-métrica-y-actividad"><b>Actividad</b></a> •
   <a href="#-filosofía-de-ingeniería"><b>Filosofía del Fénix</b></a> •
@@ -31,7 +31,7 @@
 
 Transformo ideas y modelos abstractos en **productos digitales de alto rendimiento, escalables y con propósito**. Mi trabajo integra ingeniería de software moderna (**TypeScript, React, Next.js, Node.js, Python, FastAPI, Docker**) con una sólida base en **educación matemática, computación visual, criptografía e inteligencia artificial aplicada**.
 
-He diseñado y puesto en producción más de **40 proyectos y aplicaciones interactivas**, orientados a resolver problemas reales en dos grandes frentes:
+He diseñado y puesto en producción más de **45 proyectos y aplicaciones interactivas**, orientados a resolver problemas reales en dos grandes frentes:
 1. **EdTech & Ciencia:** Plataformas de aprendizaje adaptativo, motores de evaluación formativa y laboratorios de computación visual/geométrica.
 2. **Pymes & Negocios:** Ecosistemas de productividad, automatización de flujos con IA, analítica operativa y herramientas web de uso inmediato sin barreras de entrada.
 
@@ -45,13 +45,16 @@ Proyectos desplegados con tráfico real y arquitecturas accesibles desde el nave
 
 | Plataforma / Producto | Enfoque & Arquitectura | Demo en Vivo | Repositorio |
 | :--- | :--- | :---: | :---: |
-| **Portafolio Principal** | Portafolio de nueva generación Two-Speed UX: WebGL, Three.js, Data-Driven en Next.js. | [🔗 xavier.cabellosalirrosas.com](https://xavier.cabellosalirrosas.com/) | [Ver Código](https://github.com/juanxaviercasa/portafolio_juancabello) |
+| **Portafolio Principal** | Portafolio Two-Speed UX: WebGL, Three.js, Data-Driven en Vite y Next.js. | [🔗 xavier.cabellosalirrosas.com](https://xavier.cabellosalirrosas.com/) | [Ver Código](https://github.com/juanxaviercasa/portafolio_juancabello) |
+| **Taller Fénix Web** | Landing VSL de alta conversión con testing A/B multivariante y Tailwind CSS v4. | [🔗 fenix.cabellosalirrosas.com](https://fenix.cabellosalirrosas.com/) | [Ver Código](https://github.com/juanxaviercasa/taller-fenix) |
 | **NubeParaPymes** | Portal de software, guías y suite de utilidades web en el navegador para gestión de pequeñas empresas. | [🔗 nubeparapymes.online](https://nubeparapymes.online/) | [Ver Código](https://github.com/juanxaviercasa/nube-para-pymes) |
+| **Hazlo Crecer** | Ecosistemas digitales, agentes de conversión con IA y prospección predecible. | [🔗 hazlocrecer.com](https://hazlocrecer.com/) | [Ver Código](https://github.com/juanxaviercasa/hazlo-crecer) |
 | **Mundos Simulados** | Laboratorio de computación visual, simulación de sistemas dinámicos y física computacional. | [🔗 mundossimulados.online](https://mundossimulados.online/) | [Ver Código](https://github.com/juanxaviercasa/mundos-simulados) |
 | **Caja Fuerte Zero-Knowledge** | Bóveda de credenciales y comando IA en el cliente con criptografía AES-GCM de 256 bits + PBKDF2. | [🔗 cajapifuerte.vercel.app](https://cajapifuerte.vercel.app/) | [Ver Código](https://github.com/juanxaviercasa/caja-fuerte) |
 | **Transformaciones Geométricas** | Simulador interactivo de álgebra lineal, proyecciones matriciales y homotecias en TypeScript. | [🔗 sistemazenit.com](https://transformacionesgeometricas.sistemazenit.com/) | [Ver Código](https://github.com/juanxaviercasa/transformaciones_geometricas) |
 | **Rumbo San Marcos** | Plataforma de evaluación adaptativa y preparación de alto rendimiento para postulantes a la UNMSM. | [🔗 sanmarcos.sistemazenit.com](https://sanmarcos.sistemazenit.com/) | [Ver Código](https://github.com/juanxaviercasa/rumbo-san-marcos) |
 | **Estudio UNI (CEPRE-UNI)** | Entrenador intensivo con simulacros y resolución paso a paso para aspirantes a la UNI. | [🔗 cepreuni.sistemazenit.com](https://cepreuni.sistemazenit.com/) | [Ver Código](https://github.com/juanxaviercasa/estudio_uni) |
+| **RALE Docentes** | Plataforma de evaluación diagnóstica pedagógica y gestión formativa para docentes peruanos. | [🔗 raledocentes.sistemazenit.com](http://raledocentes.sistemazenit.com/) | [Ver Código](https://github.com/juanxaviercasa/rale-docentes) |
 | **Tabla Periódica Interactiva** | Explorador reactivo de propiedades atómicas, orbitales y periodicidad físico-química. | [🔗 tablaperiodica.sistemazenit.com](https://tablaperiodica.sistemazenit.com/) | [Ver Código](https://github.com/juanxaviercasa/tabla-periodica) |
 | **Mapa de Vida** | Aplicación de introspección personal, cálculo simbólico y cartografía con paisaje sonoro ambiental. | [🔗 mapavida.sistemazenit.com](https://mapavida.sistemazenit.com/) | [Ver Código](https://github.com/juanxaviercasa/mapa-de-vida) |
 | **Psicología Interactiva** | Plataforma divulgativa interactiva sobre modelos cognitivos y sesgos del comportamiento humano. | [🔗 psicologiaoscura.sistemazenit.com](https://psicologiaoscura.sistemazenit.com/) | [Ver Código](https://github.com/juanxaviercasa/psicologia-interactiva) |
@@ -61,17 +64,19 @@ Proyectos desplegados con tráfico real y arquitecturas accesibles desde el nave
 
 ## 🏛️ Pilares Estratégicos & Ecosistema de Proyectos
 
-Catálogo organizado de mis más de 40 desarrollos técnicos agrupados por dominio de especialidad:
+Catálogo organizado de mis más de 45 desarrollos técnicos agrupados por dominio de especialidad:
 
 ### 1. 📐 EdTech, Matemáticas & Aprendizaje Interactivo
 Desarrollo de interfaces didácticas donde la abstracción matemática se vuelve tangible y medible.
 
+* **[Funciones](https://github.com/juanxaviercasa/funciones)**: Laboratorio interactivo visual de funciones matemáticas con graficación dinámica, arte conceptual integrado y testing con Playwright y Vitest.
 * **[Zenit AI Tutor](https://github.com/juanxaviercasa/zenit-ai-tutor)**: Tutor inteligente con arquitectura RAG (Retrieval-Augmented Generation), validación de citas y backend en FastAPI para enseñanza matemática personalizada.
 * **[Math Video Generator](https://github.com/juanxaviercasa/math-video-generator)**: Pipeline integral (React + Express + Python Manim + LaTeX + FFmpeg + IA) para renderizar animaciones matemáticas complejas con voz sintetizada.
 * **[Transformaciones Geométricas](https://github.com/juanxaviercasa/transformaciones_geometricas)**: Entorno interactivo para experimentar con autovalores, autovectores y transformaciones en $\mathbb{R}^2$ y $\mathbb{R}^3$.
 * **[Plataforma Matemática](https://github.com/juanxaviercasa/plataforma-matematica)**: Motor de generación de ejercicios algorítmicos dinámicos y diagnóstico en tiempo real.
 * **[Matemáticas Sin Vergüenza](https://github.com/juanxaviercasa/matematicas-sin-verguenza)**: Plataforma gamificada enfocada en reducir la fricción pedagógica y democratizar el cálculo.
 * **[Rumbo San Marcos](https://github.com/juanxaviercasa/rumbo-san-marcos)** & **[Estudio UNI](https://github.com/juanxaviercasa/estudio_uni)**: Suites de entrenamiento intensivo de admisión universitaria con temporización y métricas DECO.
+* **[RALE Docentes](https://github.com/juanxaviercasa/rale-docentes)**: Sistema web de evaluación diagnóstica, retroalimentación y acompañamiento para docentes de EBR.
 * **[Zenit Plataforma Educativa](https://github.com/juanxaviercasa/zenit-plataforma-educativa)**: Arquitectura educativa basada en Next.js, MDX, componentes dinámicos y KaTeX.
 * **[Catálogo Cursos](https://github.com/juanxaviercasa/catalogo-cursos)**: Pipeline de procesamiento, subtitulado y traducción multimedia automatizada para contenidos educativos.
 * **[Tabla Periódica](https://github.com/juanxaviercasa/tabla-periodica)**: Herramienta de visualización de datos atómicos y tendencias periódicas en JavaScript moderno.
@@ -81,6 +86,8 @@ Desarrollo de interfaces didácticas donde la abstracción matemática se vuelve
 ### 2. 💼 Soluciones Web, Negocios & Herramientas Pymes
 Herramientas prácticas que optimizan procesos de pequeñas empresas mediante software ágil y directo.
 
+* **[Taller Fénix](https://github.com/juanxaviercasa/taller-fenix)**: Landing VSL de alta conversión en React 19, TypeScript y Tailwind CSS v4 con pruebas A/B multivariante (`/webcero`, `/bycoding`, `/agencia`) y despliegue en Cloudflare Pages.
+* **[Todo Crecer](https://github.com/juanxaviercasa/todo_crecer)**: Macro-ecosistema empresarial para escalamiento comercial: orquestación de agentes de IA, lead intelligence, finops multi-proveedor y contratos.
 * **[NubeParaPymes](https://github.com/juanxaviercasa/nube-para-pymes)**: Centro de recursos, guías y utilidades web de cálculo financiero, SEO y gestión comercial para pymes.
 * **[Herramientas Pymes (Suite 22-in-1 PWA)](https://github.com/juanxaviercasa/herramientas-pymes)**: Aplicación web progresiva sin dependencias externas que reúne 22 utilidades operativas listas para funcionar offline.
 * **[Pymes Insights Platform](https://github.com/juanxaviercasa/pymes-insights-platform)**: Plataforma de analítica de negocio con stack robusto: FastAPI, Next.js, PostgreSQL, Redis y contenedorización con Docker.
@@ -103,10 +110,10 @@ Exploración de la física computacional, renderizado en tiempo real y experienc
 Sistemas autónomos, asistentes context-aware y seguridad en el cliente.
 
 * **[Caja Fuerte Zero-Knowledge](https://github.com/juanxaviercasa/caja-fuerte)**: Bóveda de contraseñas y llaves de API con cifrado AES-GCM del lado del cliente, derivación PBKDF2 (100,000 rondas) y asistente IA desacoplado.
+* **[Antigravity Academy](https://github.com/juanxaviercasa/uso-antigravity)**: Entorno educativo interactivo para dominio de Google Antigravity con cuestionarios dinámicos y recursos 3D.
 * **[Sistema Creativo](https://github.com/juanxaviercasa/sistema-creativo)**: Entorno colaborativo de trabajo con integraciones de LLMs, automatizaciones de tareas, accesibilidad WCAG y suites de test en Vitest.
-* **[PDF to MMD](https://github.com/juanxaviercasa/pdf-mmd)**: Parser y conversor automatizado de documentos PDF a especificaciones de diagramas en Mermaid y Markdown limpio.
+* **[Matemáticas VSL Oferta](https://github.com/juanxaviercasa/matematicas-oferta-vsl)**: Sistema full-stack de oferta educativa con Drizzle ORM, cliente reactivo y empaquetado Docker.
 * **[Potencia Colab](https://github.com/juanxaviercasa/potencia-colab)**: Laboratorio de ingeniería de datos con autenticación, sincronización con Google Drive/Colab y pipelines de prueba automatizados.
-* **[Yoga Flow Manager](https://github.com/juanxaviercasa/yoga-flow-manager)**: Algoritmo de encadenamiento dinámico de asanas, control de ritmos respiratorios y temporización.
 
 ### 5. 🛠️ Arquitectura Web, Templates de Alto Desempeño & Tooling Dev
 Infraestructura base, scaffolding y herramientas de diagnóstico para acelerar el desarrollo.
